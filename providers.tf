@@ -12,7 +12,7 @@ provider "google" {
 
   credentials = file("/home/ezio_fullstack/gcpkey.json")
 
-  project = "	labdevopscloudt06"
+  project = "labdevopscloudt06"
   region  = "us-east4"
   zone    = "us-east4-c"
 }
