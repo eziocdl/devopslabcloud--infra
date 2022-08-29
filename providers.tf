@@ -7,7 +7,7 @@ terraform {
   }
 }
 
-# Configura o Provider Google Cloud com o Projeto
+# Configura o Providerv do Google Cloud com o Projeto
 provider "google" {
 
   project = "labdevopscloudt06"
